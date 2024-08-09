@@ -14,7 +14,7 @@
 * Prácticos, Lunes (virtuales) y Jueves (modalidad mixta en Lab 30 de FAMAF) de 17 a 18 hs:
   * [Sala de Juan](https://meet.google.com/mxn-kaid-oxe)
   * [Sala de Benjamín](https://meet.google.com/kcg-grrz-qin)
-  * [Sala de Martín](TODO)
+  * [Sala de Martín](https://meet.google.com/tpn-pfia-uzb)
   
 ## Página oficial de la materia
 
