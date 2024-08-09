@@ -26,4 +26,4 @@
 
 ## Guías de Prácticos
 
-* [Práctico 1, 2024-08-12, Familiarizándose con **Google Colab** y **Python**]()
+* [Práctico 1, 2024-08-12, Familiarizándose con **Google Colab** y **Python**](https://colab.research.google.com/drive/1_XV48UVE3LJh0F4wcIo8fNl3jK-10FU6?usp=sharing)
