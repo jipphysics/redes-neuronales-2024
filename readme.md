@@ -6,7 +6,7 @@
 * Prácticos:
   * [Dr. Juan I. Perotti](mailto:juan.perotti@unc.edu.ar) 
   * [Dr. Benamín Marcolongo](mailto:benjaminmarcolongo@unc.edu.ar)
-  * [Dr. Martín Abrudsky](mailto:benjaminmarcolongo@unc.edu.ar)  
+  * [Dr. Martín Abrudsky](mailto:martin.abrudsky@mi.unc.edu.ar)  
 
 ## Salas virtuales
 
