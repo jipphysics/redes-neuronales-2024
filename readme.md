@@ -16,9 +16,11 @@
   * [Sala de Benjamín](https://meet.google.com/kcg-grrz-qin)
   * [Sala de Martín](https://meet.google.com/tpn-pfia-uzb)
   
-## Página oficial de la materia
+## Links útiles
 
-* [https://www.famaf.unc.edu.ar/~ftamarit/redes2024/](https://www.famaf.unc.edu.ar/~ftamarit/redes2024/)
+* [Página oficial de la materia](https://www.famaf.unc.edu.ar/~ftamarit/redes2024/)
+* [Programa de la materia](http://www.famaf.unc.edu.ar/~ftamarit/redes2024/programa_redes_neuronales_2024.pdf)
+* [Link al aula virtual](TODO)
   
 ## Anuncios
 
