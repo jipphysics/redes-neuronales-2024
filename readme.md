@@ -18,8 +18,8 @@
   
 ## Links útiles
 
-* [Página oficial de la materia](https://www.famaf.unc.edu.ar/~ftamarit/redes2024/)
-* [Programa de la materia](http://www.famaf.unc.edu.ar/~ftamarit/redes2024/programa_redes_neuronales_2024.pdf)
+* [Página oficial del curso](https://www.famaf.unc.edu.ar/~ftamarit/redes2024/)
+* [Programa del curso](http://www.famaf.unc.edu.ar/~ftamarit/redes2024/programa_redes_neuronales_2024.pdf)
 * [Link al aula virtual](TODO)
   
 ## Anuncios
