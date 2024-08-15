@@ -29,6 +29,7 @@
 ## Guías de Prácticos
 
 * [Guía 1, 2024-08-12, Familiarizándose con **Google Colab** y **Python**](https://colab.research.google.com/drive/1_XV48UVE3LJh0F4wcIo8fNl3jK-10FU6?usp=sharing)
+* [Guía 2, 2024-08-15, Familiarizándose con **Numpy**](https://colab.research.google.com/drive/1VacUDEzyP0gkox63YU2tnScIDWXGJbcM?usp=sharing)
 
 ## Videos de las clases
 
