@@ -36,3 +36,4 @@
 
 * [Clase 1, 2024-08-12, Familiarizándose con **Google Colab** y **Python**](https://drive.google.com/file/d/1zPfNrtNh5vIKt_6YhsG1jVYtip3ZDxrn/view?usp=sharing)
 * [Clase 2, 2024-08-15, Familiarizándose con **Numpy**](https://drive.google.com/file/d/1C8bkr_ssYLCS9C8FD-XcgUKfJf0gfoqW/view?usp=sharing)
+* [Clase 3, 2024-08-19, Algebra lineal con **SciPy**](TODO)
