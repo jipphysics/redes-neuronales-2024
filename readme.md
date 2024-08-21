@@ -33,7 +33,6 @@
 * [Guía 3, 2024-08-19, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1kPUu3Ba38OXhQr4Taydg8_wOHBPgoEMf?usp=sharing)
 * [Guía 4, 2024-08-22, Integración numérica de ODEs](https://colab.research.google.com/drive/1WSbJgth2MPsAxi5RSQ-dRrApYCPefJxO?usp=drive_link)
 
-
 ## Videos de las clases
 
 * [Clase 1, 2024-08-12, Familiarizándose con **Google Colab** y **Python**](https://drive.google.com/file/d/1zPfNrtNh5vIKt_6YhsG1jVYtip3ZDxrn/view?usp=sharing)
