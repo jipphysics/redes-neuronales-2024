@@ -25,7 +25,7 @@
 ## Anuncios
 
 * **2024-08-12**: El Lunes 12 de Agosto tendremos excepcionalmente primero el téorico de 17h a 19h, y luego los prácticos de 19h a 20h.
-* **2024-08-26**: Subimos el archivo [ode.py](https://github.com/jipphysics/redes-neuronales-2024/blob/main/ode.py) para resolver EDO.
+* **2024-08-26**: Subimos el archivo [ode.py](https://github.com/jipphysics/redes-neuronales-2024/blob/main/ode.py) para resolver ODEs.
 
 ## Guías de Prácticos
 
