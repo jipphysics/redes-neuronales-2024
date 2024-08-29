@@ -42,4 +42,4 @@
 * [Clase 3, 2024-08-19, Algebra lineal con **SciPy**](https://drive.google.com/file/d/1lzh75p0VX_sx08x1tpqjIFCjEYyblsr3/view?usp=sharing)
 * [Clase 4, 2024-08-22, Integración numérica de ODEs, parte 1](https://drive.google.com/file/d/1Qy-yZ9go9B1C6TgQCNWXz5gRq05mQCEk/view?usp=sharing)
 * [Clase 5, 2024-08-26, Integración numérica de ODEs, parte 2](https://drive.google.com/file/d/1m-0EuZTi4oq2vlARxWSIx48id7SzB_cN/view?usp=sharing)
-* [Clase 6, 2024-08-29, El modelo *Integrate and Fire*](TODO)
+* [Clase 6, 2024-08-29, El modelo *Integrate and Fire*](https://drive.google.com/file/d/1OCrYNwCSVyUQwEl05J3YFph5Ltv4hbRO/view?usp=sharing)
