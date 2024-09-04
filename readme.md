@@ -34,6 +34,7 @@
 * [Guía 3, 2024-08-19, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1kPUu3Ba38OXhQr4Taydg8_wOHBPgoEMf?usp=sharing)
 * [Guía 4, 2024-08-22, Integración numérica de ODEs](https://colab.research.google.com/drive/1WSbJgth2MPsAxi5RSQ-dRrApYCPefJxO?usp=drive_link)
 * [Guía 5, 2024-08-29, El modelo *Integrate and Fire*](https://colab.research.google.com/drive/11PPcMwPAPVl6SIjsVHFTRXN0T_o7jScI?usp=sharing)
+* [Guía 6, 2024-09-05, Caos I, la ecuación de Lorenz](https://colab.research.google.com/drive/18UzcxWh72EJNrh9uoDVHbcGa72VYhN4Y?usp=sharing)
 
 ## Videos de las clases
 
@@ -44,3 +45,4 @@
 * [Clase 5, 2024-08-26, Integración numérica de ODEs, parte 2](https://drive.google.com/file/d/1m-0EuZTi4oq2vlARxWSIx48id7SzB_cN/view?usp=sharing)
 * [Clase 6, 2024-08-29, El modelo *Integrate and Fire*, parte 1](https://drive.google.com/file/d/1OCrYNwCSVyUQwEl05J3YFph5Ltv4hbRO/view?usp=sharing)
 * [Clase 7, 2024-09-02, El modelo *Integrate and Fire*, parte 2](https://drive.google.com/file/d/19sllFEv7uX4JO8vDV-ESpb4bLkvpMoac/view?usp=sharing)
+* [Clase 8, 2024-09-05, Caos I, la ecuación de Lorenz](https://drive.google.com/file/d/19sllFEv7uX4JO8vDV-ESpb4bLkvpMoac/view?usp=sharing)
