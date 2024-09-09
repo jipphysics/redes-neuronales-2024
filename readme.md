@@ -46,3 +46,4 @@
 * [Clase 6, 2024-08-29, El modelo *Integrate and Fire*, parte 1](https://drive.google.com/file/d/1OCrYNwCSVyUQwEl05J3YFph5Ltv4hbRO/view?usp=sharing)
 * [Clase 7, 2024-09-02, El modelo *Integrate and Fire*, parte 2](https://drive.google.com/file/d/19sllFEv7uX4JO8vDV-ESpb4bLkvpMoac/view?usp=sharing)
 * [Clase 8, 2024-09-05, El modelo *Integrate and Fire*, parte 3](https://drive.google.com/file/d/1AOMmjkT-lYQM_tnTbI1sRezwmJnNw8TS/view?usp=sharing)
+* [Clase 9, 2024-09-09, Caos I, la ecuación de Lorenz](TODO)
