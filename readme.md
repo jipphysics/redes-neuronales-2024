@@ -35,6 +35,7 @@
 * [Guía 4, 2024-08-22, Integración numérica de ODEs](https://colab.research.google.com/drive/1WSbJgth2MPsAxi5RSQ-dRrApYCPefJxO?usp=drive_link)
 * [Guía 5, 2024-08-29, El modelo *Integrate and Fire*](https://colab.research.google.com/drive/11PPcMwPAPVl6SIjsVHFTRXN0T_o7jScI?usp=sharing)
 * [Guía 6, 2024-09-05, Caos I, la *ecuación de Lorenz*](https://colab.research.google.com/drive/18UzcxWh72EJNrh9uoDVHbcGa72VYhN4Y?usp=sharing)
+* [Guía 7, 2024-09-19, Caos II, el *mapa logístico*](https://colab.research.google.com/drive/1EPy5De-hGFyovRVkqaVccHDEIC6jSS-C?usp=drive_link)
 
 ## Videos de las clases
 
@@ -49,3 +50,4 @@
 * [Clase 9, 2024-09-09, Caos I, la *ecuación de Lorenz*, parte 1](https://drive.google.com/file/d/1ZMbHDlr2HcI5-anTAtRQuxFakjU2G-Cq/view?usp=drive_link)
 * [Clase 10, 2024-09-12, Caos I, la *ecuación de Lorenz*, parte 2](https://drive.google.com/file/d/14xlS3q9ZVvjTPlD-t7YJyBiSoSTXqRDL/view?usp=drive_link)
 * [Clase 11, 2024-09-16, Caos I, la *ecuación de Lorenz*, parte 3](https://drive.google.com/file/d/1IFvPecCJMLQAqYFcwHRfg7tJW4xaKxdN/view?usp=drive_link)
+* [Clase 12, 2024-09-19, Caos II, el *mapa logístico*, parte 1](TODO)
