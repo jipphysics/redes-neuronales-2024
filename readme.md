@@ -51,4 +51,5 @@
 * [Clase 10, 2024-09-12, Caos I, la *ecuación de Lorenz*, parte 2](https://drive.google.com/file/d/14xlS3q9ZVvjTPlD-t7YJyBiSoSTXqRDL/view?usp=drive_link)
 * [Clase 11, 2024-09-16, Caos I, la *ecuación de Lorenz*, parte 3](https://drive.google.com/file/d/1IFvPecCJMLQAqYFcwHRfg7tJW4xaKxdN/view?usp=drive_link)
 * [2024-09-19, semana del estudiante]()
-* [Clase 12, 2024-09-23, Caos II, el *mapa logístico*](https://drive.google.com/file/d/19KxmOuLkGWt2SThn0hfuQnIyYthIbPjc/view?usp=drive_link)
+* [Clase 12, 2024-09-23, Caos II, el *mapa logístico*, parte 1](https://drive.google.com/file/d/19KxmOuLkGWt2SThn0hfuQnIyYthIbPjc/view?usp=drive_link)
+* [Clase 13, 2024-09-26, Caos II, el *mapa logístico*, parte 2]()
