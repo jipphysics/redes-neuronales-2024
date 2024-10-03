@@ -26,6 +26,7 @@
 
 * **2024-08-12**: El Lunes 12 de Agosto tendremos excepcionalmente primero el téorico de 17h a 19h, y luego los prácticos de 19h a 20h.
 * **2024-08-26**: Subimos el archivo [ode.py](https://github.com/jipphysics/redes-neuronales-2024/blob/main/ode.py) para resolver ODEs.
+* **2024-10-03**: Hoy se introduce el Trabajo Práctico 1. Habrá dos horas de práctico. Una en el Lab 30 y otra en el aula 31.
 
 ## Guías de Prácticos
 
@@ -53,3 +54,10 @@
 * [2024-09-19, semana del estudiante]()
 * [Clase 12, 2024-09-23, Caos II, el *mapa logístico*, parte 1](https://drive.google.com/file/d/19KxmOuLkGWt2SThn0hfuQnIyYthIbPjc/view?usp=drive_link)
 * [Clase 13, 2024-09-26, Caos II, el *mapa logístico*, parte 2](https://drive.google.com/file/d/1M00WPthOY_jqTb52smoAa0oi4JPmxOUu/view?usp=drive_link)
+* [Clase 14, 2024-09-30, sólo teórico]()
+* [Clase 15, 2024-09-26, El modelo de *Hodgkin y Huxley*, parte 1](TODO)
+
+## Trabajos Prácticos
+
+* [Trabajo Práctico 1, El modelo de **Hodgkin y Huxley**](TODO)
+* [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041)
