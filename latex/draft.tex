@@ -1,0 +1,337 @@
+%% ****** Start of file apstemplate.tex ****** %
+%%
+%%
+%%   This file is part of the APS files in the REVTeX 4.2 distribution.
+%%   Version 4.2a of REVTeX, January, 2015
+%%
+%%
+%%   Copyright (c) 2015 The American Physical Society.
+%%
+%%   See the REVTeX 4 README file for restrictions and more information.
+%%
+%
+% This is a template for producing manuscripts for use with REVTEX 4.2
+% Copy this file to another name and then work on that file.
+% That way, you always have this original template file to use.
+%
+% Group addresses by affiliation; use superscriptaddress for long
+% author lists, or if there are many overlapping affiliations.
+% For Phys. Rev. appearance, change preprint to twocolumn.
+% Choose pra, prb, prc, prd, pre, prl, prstab, prstper, or rmp for journal
+%  Add 'draft' option to mark overfull boxes with black boxes
+%  Add 'showkeys' option to make keywords appear
+%\documentclass[aps,prl,preprint,groupedaddress]{revtex4-2}
+\documentclass[aps,prl,twocolumn,groupedaddress]{revtex4-2}
+%\documentclass[aps,prl,preprint,superscriptaddress]{revtex4-2}
+%\documentclass[aps,prl,reprint,groupedaddress]{revtex4-2}
+
+% You should use BibTeX and apsrev.bst for references
+% Choosing a journal automatically selects the correct APS
+% BibTeX style file (bst file), so only uncomment the line
+% below if necessary.
+%\bibliographystyle{apsrev4-2}
+
+\usepackage{graphicx}
+\usepackage{epstopdf}
+%\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+%\usepackage{amsthm}
+%\usepackage{amsfonts}
+%\usepackage{subfigure}
+%\usepackage{hhline}
+%\usepackage[miktex]{gnuplottex}
+%\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage{hyperref}
+%\usepackage[percent]{overpic}
+\usepackage{tikz}
+\usepackage{mathrsfs}
+\usepackage{wasysym}
+\usepackage{tikz-cd}
+%\usepackage{stix} %\fisheye
+\usepackage{stackengine,scalerel}
+
+% so sections, subsections, etc. become numerated.
+\setcounter{secnumdepth}{3}
+
+% Comandos proprios
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcommand{\avrg}[1]{\left\langle #1 \right\rangle}
+\newcommand{\nelta}{\bar{\delta}}
+\newcommand{\bra}[1]{\left\langle #1\right|}
+\newcommand{\ket}[1]{\left| #1 \right\rangle}
+\newcommand{\sbra}[1]{\langle #1|}
+\newcommand{\sket}[1]{| #1 \rangle}
+\newcommand{\bek}[3]{\left\langle #1 \right| #2 \left| #3 \right\rangle}
+\newcommand{\sbek}[3]{\langle #1 | #2 | #3 \rangle}
+\newcommand{\braket}[2]{\left\langle #1 \middle| #2 \right\rangle}
+\newcommand{\ketbra}[2]{\left| #1 \middle\rangle \middle\langle #2  \right|}
+\newcommand{\sbraket}[2]{\langle #1 | #2 \rangle}
+\newcommand{\sketbra}[2]{| #1 \rangle  \langle #2 |}
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\newcommand{\snorm}[1]{\lVert#1\rVert}
+\newcommand{\bvec}[1]{\boldsymbol{\mathsf{#1}}}
+\newcommand{\bcov}[1]{\boldsymbol{#1}}
+\newcommand{\bdua}[1]{\boldsymbol{\check{#1}}}
+%\newcommand{\bdov}[1]{\boldsymbol{\breve{#1}}}
+\newcommand{\bdov}[1]{\breve{#1}}
+%\newcommand{\bten}[1]{\boldsymbol{\mathfrak{#1}}}
+\newcommand{\bten}[1]{\boldsymbol{\mathfrak{#1}}}
+\newcommand{\forany}{\tilde{\forall}}
+\newcommand{\qed}{$\overset{\circ}{.}\;$}
+
+\newcommand\bigeye{\ensurestackMath{\stackinset{c}{}{c}{-.3pt}%
+  {\bullet}{\scriptstyle\bigcirc}}}
+\newcommand\eye{\scalerel*{\bigeye}{x}}
+%\newcommand*{\fisheye}{%
+%    \mathbin{%
+%        \ooalign{$\circledcirc$\cr\hidewidth$\bullet$\hidewidth}%
+%    }%
+%}
+\renewcommand{\appendixname}{Apéndice} % Change "Appendix" to "Apéndice"
+
+\begin{document}
+
+% Use the \preprint command to place your local institutional report
+% number in the upper righthand corner of the title page in preprint mode.
+% Multiple \preprint commands are allowed.
+% Use the 'preprintnumbers' class option to override journal defaults
+% to display numbers if necessary
+%\preprint{}
+
+%Title of paper
+\title{
+Una red neuronal con una neurona
+}
+
+% repeat the \author .. \affiliation  etc. as needed
+% \email, \thanks, \homepage, \altaffiliation all apply to the current
+% author. Explanatory text should go in the []'s, actual e-mail
+% address or url should go in the {}'s for \email and \homepage.
+% Please use the appropriate macro foreach each type of information
+
+% \affiliation command applies to all authors since the last
+% \affiliation command. The \affiliation command should follow the
+% other information
+% \affiliation can be followed by \email, \homepage, \thanks as well.
+\author{Juan I. Perotti}
+\email[]{juan.perotti@unc.edu.ar}
+%\homepage[]{Your web page}
+%\thanks{}
+%\altaffiliation{}
+%\affiliation{}
+\affiliation{Instituto de F\'isica Enrique Gaviola (IFEG-CONICET), Ciudad Universitaria, 5000 C\'ordoba, Argentina}
+\affiliation{Facultad de Matem\'atica, Astronom\'ia, F\'isica y Computaci\'on, Universidad Nacional de C\'ordoba, Ciudad Universitaria, 5000 C\'ordoba, Argentina}
+
+\author{Benjamín Marcolongo}
+\email[]{benjaminmarcolongo@unc.edu.ar}
+\affiliation{Instituto de F\'isica Enrique Gaviola (IFEG-CONICET), Ciudad Universitaria, 5000 C\'ordoba, Argentina}
+\affiliation{Facultad de Matem\'atica, Astronom\'ia, F\'isica y Computaci\'on, Universidad Nacional de C\'ordoba, Ciudad Universitaria, 5000 C\'ordoba, Argentina}
+
+\author{Martín Abrudsky}
+\email[]{martin.abrudsky@unc.edu.ar}
+\affiliation{Instituto de F\'isica Enrique Gaviola (IFEG-CONICET), Ciudad Universitaria, 5000 C\'ordoba, Argentina}
+\affiliation{Facultad de Matem\'atica, Astronom\'ia, F\'isica y Computaci\'on, Universidad Nacional de C\'ordoba, Ciudad Universitaria, 5000 C\'ordoba, Argentina}
+
+%Collaboration name if desired (requires use of superscriptaddress
+%option in \documentclass). \noaffiliation is required (may also be
+%used with the \author command).
+%\collaboration can be followed by \email, \homepage, \thanks as well.
+%\collaboration{Juan Perez}
+%\noaffiliation
+
+\date{\today}
+
+\begin{abstract}
+En este trabajo, bla bla bla...
+\end{abstract}
+
+% insert suggested keywords - APS authors don't need to do this
+%\keywords{}
+
+%\maketitle must follow title, authors, abstract, and keywords
+\maketitle
+
+\section{Introducción}
+
+Las redes neuronales... bla bla bla~\cite{hertz1999introduction}.
+
+\section{Teoría}
+
+Bla bla...
+
+\section{Resultados}
+
+Ver fig.~\ref{fig1}.
+
+\begin{figure*}
+\includegraphics*[scale=.4]{figs/fig1.png}
+\includegraphics*[scale=.4]{figs/fig1.png}
+\put(-483,140){\bf a)}
+\put(-240,140){\bf b)}
+\\
+\includegraphics*[scale=.4]{figs/fig1.png}
+\includegraphics*[scale=.4]{figs/fig1.png}
+\put(-483,140){\bf c)}
+\put(-240,140){\bf d)}
+%\vspace{-0.25cm}
+\caption{
+\label{fig1}
+Un puñado de distribuciones Gaussianas.
+{\bf a)} 
+Una distribución Gaussiana.
+{\bf b)} 
+Otra distribución Gaussiana.
+{\bf c)} 
+Otra distribución Gaussiana más.
+{\bf d)} 
+Una distribución Gaussiana extra.
+}
+\end{figure*}
+
+\section{Discusión}
+
+La comparación de ... bla bla bla
+
+\section{Conclusiones}
+
+Concluyendo ...
+
+% If in two-column mode, this environment will change to single-column
+% format so that long equations can be displayed. Use
+% sparingly.
+%\begin{widetext}
+% put long equation here
+%\end{widetext}
+
+% figures should be put into the text as floats.
+% Use the graphics or graphicx packages (distributed with LaTeX2e)
+% and the \includegraphics macro defined in those packages.
+% See the LaTeX Graphics Companion by Michel Goosens, Sebastian Rahtz,
+% and Frank Mittelbach for instance.
+%
+% Here is an example of the general form of a figure:
+% Fill in the caption in the braces of the \caption{} command. Put the label
+% that you will use with \ref{} command in the braces of the \label{} command.
+% Use the figure* environment if the figure should span across the
+% entire page. There is no need to do explicit centering.
+
+% \begin{figure}
+% \includegraphics{}%
+% \caption{\label{}}
+% \end{figure}
+
+% Surround figure environment with turnpage environment for landscape
+% figure
+% \begin{turnpage}
+% \begin{figure}
+% \includegraphics{}%
+% \caption{\label{}}
+% \end{figure}
+% \end{turnpage}
+
+% tables should appear as floats within the text
+%
+% Here is an example of the general form of a table:
+% Fill in the caption in the braces of the \caption{} command. Put the label
+% that you will use with \ref{} command in the braces of the \label{} command.
+% Insert the column specifiers (l, r, c, d, etc.) in the empty braces of the
+% \begin{tabular}{} command.
+% The ruledtabular enviroment adds doubled rules to table and sets a
+% reasonable default table settings.
+% Use the table* environment to get a full-width table in two-column
+% Add \usepackage{longtable} and the longtable (or longtable*}
+% environment for nicely formatted long tables. Or use the the [H]
+% placement option to break a long table (with less control than 
+% in longtable).
+% \begin{table}%[H] add [H] placement to break table across pages
+% \caption{\label{}}
+% \begin{ruledtabular}
+% \begin{tabular}{}
+% Lines of table here ending with \\
+% \end{tabular}
+% \end{ruledtabular}
+% \end{table}
+
+% Surround table environment with turnpage environment for landscape
+% table
+% \begin{turnpage}
+% \begin{table}
+% \caption{\label{}}
+% \begin{ruledtabular}
+% \begin{tabular}{}
+% \end{tabular}
+% \end{ruledtabular}
+% \end{table}
+% \end{turnpage}
+
+%\section{Aknowledgments}
+\section{Agradecimientos}
+
+\begin{acknowledgments}
+JIP agradece el finaciamiento de CONICET y la UNC.
+\end{acknowledgments}
+% Create the reference section using BibTeX:
+\bibliography{ref}
+
+% Specify following sections are appendices. Use \appendix* if there
+% only one appendix.
+
+\onecolumngrid
+
+\appendix
+
+\section{Modelos}
+
+\subsection{Modelo 1}
+
+El código bla bla bla...
+
+\begin{verbatim}
+## Definimos el primer modelo
+class MultiLayerPerceptron(nn.Module):
+    def __init__(self):
+        super().__init__()
+
+        ## "Achatamos" la matriz de 28x28 píxeles, 
+        ## transformandola en un vector de 784 elementos
+        self.flatten = nn.Flatten()
+
+        ## Definimos el perceptrón multicapa con las
+        ## siguientes capas:
+        ##
+        ## Entrada:        784 neuronas
+        ## 1º capa oculta: 512 neuronas
+        ## 2º capa oculta: 512 neuronas
+        ## Salida:         10  neuronas
+        ##
+        ## Entre capa y capa, utilizamos función de 
+        ## activación ReLU
+        self.linear_relu_stack = nn.Sequential(
+            nn.Linear(28*28, 600),
+            nn.ReLU(),
+            nn.Linear(600, 120),
+            nn.ReLU(),
+            nn.Linear(120, 10),
+            nn.ReLU()
+        )
+
+    def forward(self, x):
+        x = self.flatten(x)
+        x = self.linear_relu_stack(x)
+        return x
+\end{verbatim}
+
+\subsection{Modelo 2}
+
+El código bla bla bla...
+
+\section{Datos}
+
+Bla bla bla...
+
+\end{document}
+%
+% ****** End of file apstemplate.tex ******

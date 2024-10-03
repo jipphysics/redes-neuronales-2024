@@ -55,7 +55,7 @@
 * [Clase 12, 2024-09-23, Caos II, el *mapa logístico*, parte 1](https://drive.google.com/file/d/19KxmOuLkGWt2SThn0hfuQnIyYthIbPjc/view?usp=drive_link)
 * [Clase 13, 2024-09-26, Caos II, el *mapa logístico*, parte 2](https://drive.google.com/file/d/1M00WPthOY_jqTb52smoAa0oi4JPmxOUu/view?usp=drive_link)
 * [Clase 14, 2024-09-30, sólo teórico]()
-* [Clase 15, 2024-09-26, El modelo de *Hodgkin y Huxley*, parte 1](TODO)
+* [Clase 15, 2024-09-26, El modelo de *Hodgkin y Huxley*, parte 1](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
 
 ## Trabajos Prácticos
 
