@@ -37,6 +37,7 @@
 * [Guía 5, 2024-08-29, El modelo *Integrate and Fire*](https://colab.research.google.com/drive/11PPcMwPAPVl6SIjsVHFTRXN0T_o7jScI?usp=sharing)
 * [Guía 6, 2024-09-05, Caos I, la *ecuación de Lorenz*](https://colab.research.google.com/drive/18UzcxWh72EJNrh9uoDVHbcGa72VYhN4Y?usp=sharing)
 * [Guía 7, 2024-09-19, Caos II, el *mapa logístico*](https://colab.research.google.com/drive/1EPy5De-hGFyovRVkqaVccHDEIC6jSS-C?usp=drive_link)
+* [Guía 8, 2024-10-03, El modelo de *Hodgkin y Huxley*](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
 
 ## Videos de las clases
 
@@ -55,7 +56,7 @@
 * [Clase 12, 2024-09-23, Caos II, el *mapa logístico*, parte 1](https://drive.google.com/file/d/19KxmOuLkGWt2SThn0hfuQnIyYthIbPjc/view?usp=drive_link)
 * [Clase 13, 2024-09-26, Caos II, el *mapa logístico*, parte 2](https://drive.google.com/file/d/1M00WPthOY_jqTb52smoAa0oi4JPmxOUu/view?usp=drive_link)
 * [Clase 14, 2024-09-30, sólo teórico]()
-* [Clase 15, 2024-09-26, El modelo de *Hodgkin y Huxley*, parte 1](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
+* [Clase 15, 2024-09-26, El modelo de *Hodgkin y Huxley*, parte 1](TODO)
 
 ## Trabajos Prácticos
 
