@@ -27,6 +27,7 @@
 * **2024-08-12**: El Lunes 12 de Agosto tendremos excepcionalmente primero el téorico de 17h a 19h, y luego los prácticos de 19h a 20h.
 * **2024-08-26**: Subimos el archivo [ode.py](https://github.com/jipphysics/redes-neuronales-2024/blob/main/ode.py) para resolver ODEs.
 * **2024-10-03**: Hoy se introduce el Trabajo Práctico 1. Habrá dos horas de práctico. Una en el Lab 30 y otra en el aula 31.
+* **2024-10-10**: Con el fin de solidarizarse con el paro, hoy sólo clase de consulta de 17:00 a 18:00. No es obligatorio asistir. Además, se extiende el plazo de entrega del TP1 al Lunes 21 de Octubre.
 
 ## Guías de Prácticos
 
@@ -61,5 +62,5 @@
 
 ## Trabajos Prácticos
 
-* [Trabajo Práctico 1, El modelo de **Hodgkin y Huxley** (fecha entrega 2024-10-14)](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp1-2024.pdf)
+* [Trabajo Práctico 1, El modelo de **Hodgkin y Huxley** (fecha entrega 2024-10-21)](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp1-2024.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041) [(o en el repo)](https://github.com/jipphysics/redes-neuronales-2024/tree/main/latex)
