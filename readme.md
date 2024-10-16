@@ -60,7 +60,7 @@
 * [Clase 15, 2024-10-03, El modelo de *Hodgkin y Huxley*, parte 1](https://drive.google.com/file/d/1grjWRm9TPadu7M8XeJ-XgVCSEVcY90TP/view?usp=drive_link)
 * [Clase 16, 2024-10-03, El modelo de *Hodgkin y Huxley*, parte 2](https://drive.google.com/file/d/1e64rmMKFwnvguGUq9gYKyE1978Zcoz_f/view?usp=drive_link)
 * [2024-10-10, paro y clase de consulta]()
-* [Clase 17, 2024-10-14, El modelo de *Hodgkin y Huxley*, parte 3]()
+* [Clase 17, 2024-10-14, El modelo de *Hodgkin y Huxley*, parte 3](https://drive.google.com/file/d/1-Lh26evimvG-kvv4AWm2JzQY5t35Rqea/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
