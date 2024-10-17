@@ -39,6 +39,7 @@
 * [Guía 6, 2024-09-05, Caos I, la *ecuación de Lorenz*](https://colab.research.google.com/drive/18UzcxWh72EJNrh9uoDVHbcGa72VYhN4Y?usp=sharing)
 * [Guía 7, 2024-09-19, Caos II, el *mapa logístico*](https://colab.research.google.com/drive/1EPy5De-hGFyovRVkqaVccHDEIC6jSS-C?usp=drive_link)
 * [Guía 8, 2024-10-03, El modelo de *Hodgkin y Huxley*](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
+* [Guía 9, 2024-10-17, *Perceptrón simple*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link
 
 ## Videos de las clases
 
@@ -61,6 +62,7 @@
 * [Clase 16, 2024-10-03, El modelo de *Hodgkin y Huxley*, parte 2](https://drive.google.com/file/d/1e64rmMKFwnvguGUq9gYKyE1978Zcoz_f/view?usp=drive_link)
 * [2024-10-10, paro y clase de consulta]()
 * [Clase 17, 2024-10-14, El modelo de *Hodgkin y Huxley*, parte 3](https://drive.google.com/file/d/1-Lh26evimvG-kvv4AWm2JzQY5t35Rqea/view?usp=drive_link)
+* [Clase 18, 2024-10-17, *Perceptrón simple*](TODO)
 
 ## Trabajos Prácticos
 
