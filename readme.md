@@ -62,7 +62,9 @@
 * [Clase 16, 2024-10-03, El modelo de *Hodgkin y Huxley*, parte 2](https://drive.google.com/file/d/1e64rmMKFwnvguGUq9gYKyE1978Zcoz_f/view?usp=drive_link)
 * [2024-10-10, paro y clase de consulta]()
 * [Clase 17, 2024-10-14, El modelo de *Hodgkin y Huxley*, parte 3](https://drive.google.com/file/d/1-Lh26evimvG-kvv4AWm2JzQY5t35Rqea/view?usp=drive_link)
-* [Clase 18, 2024-10-17, *Perceptrón simple*](https://drive.google.com/file/d/1zX_7UqEKDCLL0vxe-4W5xH4NKlJz4fR6/view?usp=drive_link)
+* [Clase 18, 2024-10-17, *Perceptrón simple*, parte 1](https://drive.google.com/file/d/1zX_7UqEKDCLL0vxe-4W5xH4NKlJz4fR6/view?usp=drive_link)
+* [Clase 19, 2024-10-21, *Perceptrón simple*, parte 2]()
+* [Clase 20, 2024-10-21, *Perceptrón simple*, parte 3]()
 
 ## Trabajos Prácticos
 
