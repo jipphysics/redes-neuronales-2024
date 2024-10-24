@@ -40,7 +40,7 @@
 * [Guía 7, 2024-09-19, Caos II, el *mapa logístico*](https://colab.research.google.com/drive/1EPy5De-hGFyovRVkqaVccHDEIC6jSS-C?usp=drive_link)
 * [Guía 8, 2024-10-03, El modelo de *Hodgkin y Huxley*](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
 * [Guía 9, 2024-10-17, *Perceptrón monocapa*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link)
-* [Guía 10, 2024-10-24, *Perceptrón multicapa*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link)
+* [Guía 10, 2024-10-24, *Perceptrón multicapa*](https://colab.research.google.com/drive/1FTZLWPle5t-FTk_RADX3TiN90pvlhdHi?usp=drive_link)
 
 ## Videos de las clases
 
