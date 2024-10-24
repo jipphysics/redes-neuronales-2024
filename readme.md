@@ -39,7 +39,8 @@
 * [Guía 6, 2024-09-05, Caos I, la *ecuación de Lorenz*](https://colab.research.google.com/drive/18UzcxWh72EJNrh9uoDVHbcGa72VYhN4Y?usp=sharing)
 * [Guía 7, 2024-09-19, Caos II, el *mapa logístico*](https://colab.research.google.com/drive/1EPy5De-hGFyovRVkqaVccHDEIC6jSS-C?usp=drive_link)
 * [Guía 8, 2024-10-03, El modelo de *Hodgkin y Huxley*](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
-* [Guía 9, 2024-10-17, *Perceptrón simple*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link)
+* [Guía 9, 2024-10-17, *Perceptrón monocapa*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link)
+* [Guía 10, 2024-10-24, *Perceptrón multicapa*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link)
 
 ## Videos de las clases
 
@@ -65,6 +66,7 @@
 * [Clase 18, 2024-10-17, *Perceptrón monocapa*, parte 1](https://drive.google.com/file/d/1zX_7UqEKDCLL0vxe-4W5xH4NKlJz4fR6/view?usp=drive_link)
 * [Clase 19, 2024-10-21, *Perceptrón monocapa*, parte 2](https://drive.google.com/file/d/1uxueHNOgTc9g6QGBX3MMf0nrGv_h6xNO/view?usp=drive_link)
 * [Clase 20, 2024-10-21, *Perceptrón monocapa*, parte 3](https://drive.google.com/file/d/1dFHMwMNactc7E1tqQ-nTjauKiyjrZ_PF/view?usp=drive_link)
+* [Clase 21, 2024-10-24, *Perceptrón multicapa*]()
 
 ## Trabajos Prácticos
 
