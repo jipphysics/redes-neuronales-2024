@@ -70,7 +70,7 @@
 * [Clase 20, 2024-10-21, *Perceptrón monocapa*, parte 3](https://drive.google.com/file/d/1dFHMwMNactc7E1tqQ-nTjauKiyjrZ_PF/view?usp=drive_link)
 * [Clase 21, 2024-10-24, *Perceptrón multicapa*, parte 1](https://drive.google.com/file/d/1YdirGm6ZmwGpLH-KZTPYLwnB8NPcNiQW/view?usp=drive_link)
 * [Clase 22, 2024-10-24, Repaso del *Perceptrón monocapa* (parte 4)](https://drive.google.com/file/d/1U560PThmt3j7zMRndim65Nf6akitiXNN/view?usp=drive_link)
-* [Clase 22, 2024-10-31, ...]()
+* [Clase 22, 2024-10-31, *Perceptrón multicapa*, parte 2](https://drive.google.com/file/d/1BODk4ddzBBlN2lA91WV3Jor5JADyb19Q/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
