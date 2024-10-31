@@ -41,6 +41,8 @@
 * [Guía 8, 2024-10-03, El modelo de *Hodgkin y Huxley*](https://colab.research.google.com/drive/1fCe6MhAYSNxGsBECoxSAJSevDYkUshrU?usp=drive_link)
 * [Guía 9, 2024-10-17, *Perceptrón monocapa*](https://colab.research.google.com/drive/1WfSJgn8_YPqvNvYWeHZA-zil5oaTmCOq?usp=drive_link)
 * [Guía 10, 2024-10-24, *Perceptrón multicapa*](https://colab.research.google.com/drive/1FTZLWPle5t-FTk_RADX3TiN90pvlhdHi?usp=drive_link)
+* [Guía 10, 2024-10-31, *Perceptrón multicapa*, Material Suplementario](https://github.com/jipphysics/redes-neuronales-2024/blob/main/redes-neuronales-2024-guia-10-SM.pdf)
+
 
 ## Videos de las clases
 
