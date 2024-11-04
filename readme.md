@@ -77,3 +77,7 @@
 
 * [Trabajo Práctico 1, El modelo de **Hodgkin y Huxley** (fecha entrega 2024-10-21)](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp1-2024.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041) [(o en el repo)](https://github.com/jipphysics/redes-neuronales-2024/tree/main/latex)
+
+## Útiles
+
+* [920 open source projects in ML with Python](https://github.com/ml-tooling/best-of-ml-python)
