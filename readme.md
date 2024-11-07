@@ -72,7 +72,7 @@
 * [Clase 22, 2024-10-24, Repaso del *Perceptrón monocapa* (parte 4)](https://drive.google.com/file/d/1U560PThmt3j7zMRndim65Nf6akitiXNN/view?usp=drive_link)
 * [Clase 23, 2024-10-31, *Perceptrón multicapa*, parte 2](https://drive.google.com/file/d/1BODk4ddzBBlN2lA91WV3Jor5JADyb19Q/view?usp=drive_link)
 * [Clase 24, 2024-11-04, Cuadrados mínimos con *PyTorch*, parte 1](https://drive.google.com/file/d/1ZHWkLGAFjjOtSGDh13ar1Pi551-AeSbo/view?usp=drive_link)
-* [Clase 25, 2024-11-07, Cuadrados mínimos con *PyTorch*, parte 2]()
+* [Clase 25, 2024-11-07, Consulta guía 10](https://drive.google.com/file/d/1afeBA85rCQWChQa6Az1zZcZ37daLuUFA/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
