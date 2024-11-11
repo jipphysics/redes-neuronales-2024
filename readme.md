@@ -43,6 +43,7 @@
 * [Guía 10, 2024-10-24, *Perceptrón multicapa*](https://colab.research.google.com/drive/1FTZLWPle5t-FTk_RADX3TiN90pvlhdHi?usp=drive_link)
 	* [Material Suplementario](https://github.com/jipphysics/redes-neuronales-2024/blob/main/redes-neuronales-2024-guia-10-SM.pdf)
 * [Guía 11, 2024-11-04, Cuadrados mínimos con *PyTorch*](https://colab.research.google.com/drive/1zL4YxbrxSWcSWPzvbIArdHYBzbHbhAe2?usp=drive_link)
+* [Guía 11, 2024-11-11, Clasificando *Fashion-MNIST* con *PyTorch*](https://colab.research.google.com/drive/1zL4YxbrxSWcSWPzvbIArdHYBzbHbhAe2?usp=drive_link)
 
 ## Videos de las clases
 
@@ -73,10 +74,12 @@
 * [Clase 23, 2024-10-31, *Perceptrón multicapa*, parte 2](https://drive.google.com/file/d/1BODk4ddzBBlN2lA91WV3Jor5JADyb19Q/view?usp=drive_link)
 * [Clase 24, 2024-11-04, Cuadrados mínimos con *PyTorch*, parte 1](https://drive.google.com/file/d/1ZHWkLGAFjjOtSGDh13ar1Pi551-AeSbo/view?usp=drive_link)
 * [Clase 25, 2024-11-07, Consulta guía 10](https://drive.google.com/file/d/1afeBA85rCQWChQa6Az1zZcZ37daLuUFA/view?usp=drive_link)
+* [Clase 26, 2024-11-11, Presentación de la guía 12 y el Trabajo Práctico 2, Clasificando *Fashion-MNIST* con *PyTorch*]()
 
 ## Trabajos Prácticos
 
 * [Trabajo Práctico 1, El modelo de **Hodgkin y Huxley** (fecha entrega 2024-10-21)](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp1-2024.pdf)
+* [Trabajo Práctico 2, Clasificando **Fashion-MNIST** con **PyTorch** (fecha entrega 2024-11-18)](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp2-2024.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041) [(o en el repo)](https://github.com/jipphysics/redes-neuronales-2024/tree/main/latex)
 
 ## Útiles
