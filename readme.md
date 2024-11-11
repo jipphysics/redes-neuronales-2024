@@ -43,7 +43,7 @@
 * [Guía 10, 2024-10-24, *Perceptrón multicapa*](https://colab.research.google.com/drive/1FTZLWPle5t-FTk_RADX3TiN90pvlhdHi?usp=drive_link)
 	* [Material Suplementario](https://github.com/jipphysics/redes-neuronales-2024/blob/main/redes-neuronales-2024-guia-10-SM.pdf)
 * [Guía 11, 2024-11-04, Cuadrados mínimos con *PyTorch*](https://colab.research.google.com/drive/1zL4YxbrxSWcSWPzvbIArdHYBzbHbhAe2?usp=drive_link)
-* [Guía 11, 2024-11-11, Clasificando *Fashion-MNIST* con *PyTorch*](https://colab.research.google.com/drive/1zL4YxbrxSWcSWPzvbIArdHYBzbHbhAe2?usp=drive_link)
+* [Guía 11, 2024-11-11, Clasificando *Fashion-MNIST* con *PyTorch*](https://colab.research.google.com/drive/1nsgBXwDPPIqF5OBdAnyC2B9QwnJQs5lx?usp=drive_link)
 
 ## Videos de las clases
 
