@@ -44,6 +44,7 @@
 	* [Material Suplementario](https://github.com/jipphysics/redes-neuronales-2024/blob/main/redes-neuronales-2024-guia-10-SM.pdf)
 * [Guía 11, 2024-11-04, Cuadrados mínimos con *PyTorch*](https://colab.research.google.com/drive/1zL4YxbrxSWcSWPzvbIArdHYBzbHbhAe2?usp=drive_link)
 * [Guía 12, 2024-11-11, Clasificando *Fashion-MNIST* con *PyTorch*](https://colab.research.google.com/drive/1nsgBXwDPPIqF5OBdAnyC2B9QwnJQs5lx?usp=drive_link)
+  * [Material Suplementario, Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
 ## Videos de las clases
 
