@@ -75,7 +75,7 @@
 * [Clase 23, 2024-10-31, *Perceptrón multicapa*, parte 2](https://drive.google.com/file/d/1BODk4ddzBBlN2lA91WV3Jor5JADyb19Q/view?usp=drive_link)
 * [Clase 24, 2024-11-04, Cuadrados mínimos con *PyTorch*, parte 1](https://drive.google.com/file/d/1ZHWkLGAFjjOtSGDh13ar1Pi551-AeSbo/view?usp=drive_link)
 * [Clase 25, 2024-11-07, Consulta guía 10](https://drive.google.com/file/d/1afeBA85rCQWChQa6Az1zZcZ37daLuUFA/view?usp=drive_link)
-* [Clase 26, 2024-11-11, Presentación de la guía 12 y el Trabajo Práctico 2, Clasificando *Fashion-MNIST* con *PyTorch*]()
+* [Clase 26, 2024-11-11, Presentación de la guía 12 y el Trabajo Práctico 2, Clasificando *Fashion-MNIST* con *PyTorch*](https://drive.google.com/file/d/1uM3XyJOpMX-jLL_BX5rb4-3cTYcOuLRQ/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
