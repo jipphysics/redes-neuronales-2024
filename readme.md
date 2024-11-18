@@ -77,6 +77,7 @@
 * [Clase 25, 2024-11-07, Consulta guía 10](https://drive.google.com/file/d/1afeBA85rCQWChQa6Az1zZcZ37daLuUFA/view?usp=drive_link)
 * [Clase 26, 2024-11-11, Presentación de la guía 12 y el Trabajo Práctico 2, Clasificando *Fashion-MNIST* con *PyTorch*](https://drive.google.com/file/d/1uM3XyJOpMX-jLL_BX5rb4-3cTYcOuLRQ/view?usp=drive_link)
 * [Clase 27, 2024-11-14, Clasificando *Fashion-MNIST* con *PyTorch*](https://drive.google.com/file/d/12AONwUzt_OGprP76Zf8PiZyfLmRL1HYs/view?usp=drive_link)
+* [Clase 28, 2024-11-18, Consulta *Fashion-MNIST* con *PyTorch*](https://drive.google.com/file/d/1-Qf-KYfJ4D_OD6PQswUfl6QEAGKSGjai/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
