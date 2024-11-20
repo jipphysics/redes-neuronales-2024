@@ -88,3 +88,4 @@
 ## Útiles
 
 * [920 open source projects in ML with Python](https://github.com/ml-tooling/best-of-ml-python)
+* [Fechas tenativas de exámenes finales de posgrado](https://www.famaf.unc.edu.ar/documents/5150/TENTATIVAS_POSGRADO_2024-2025.pdf)
