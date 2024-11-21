@@ -100,6 +100,12 @@
 * [Trabajo Práctico 2, Clasificando **Fashion-MNIST** con **PyTorch** (nueva fecha entrega 2024-11-25 [Lunes])](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp2-2024.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041) [(o en el repo)](https://github.com/jipphysics/redes-neuronales-2024/tree/main/latex)
 
+## Trabajo final
+
+* [Autoencoder y clasificador convolucional profundo sobre FashionMNIST](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tf-2024.pdf)
+  * Recuerde entregarlo 5 días hábiles antes del día del examen.
+  * Luego, el día del examen, deberá defenderlo en una exposición oral de 10 min.
+
 ## Útiles
 
 * [920 open source projects in ML with Python](https://github.com/ml-tooling/best-of-ml-python)
