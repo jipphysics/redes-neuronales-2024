@@ -28,6 +28,12 @@
 * **2024-08-26**: Subimos el archivo [ode.py](https://github.com/jipphysics/redes-neuronales-2024/blob/main/ode.py) para resolver ODEs.
 * **2024-10-03**: Hoy se introduce el Trabajo Práctico 1. Habrá dos horas de práctico. Una en el Lab 30 y otra en el aula 31.
 * **2024-10-10**: Con el fin de solidarizarse con el paro, hoy sólo clase de consulta de 17:00 a 18:00. No es obligatorio asistir. Además, se extiende el plazo de entrega del TP1 al Lunes 21 de Octubre.
+* **2024-11-21**: Se posterga la fecha de entrega del Trabajo Práctico 2 (TP2) al Lunes 25 de Noviembre a las 23:59h.
+
+## Fechas de exámenes
+
+* [Fechas examenes definitivas 2do cuatrimestre, grado](https://www.famaf.unc.edu.ar/documents/5148/ANEXO_Fechas_de_Ex%C3%A1menes_de_Asignaturas_de_Grado.pdf)
+* [Fechas examenes tenativas 2do cuatrimestre, posgrado](https://www.famaf.unc.edu.ar/documents/5150/TENTATIVAS_POSGRADO_2024-2025.pdf)
 
 ## Guías de Prácticos
 
@@ -82,10 +88,9 @@
 ## Trabajos Prácticos
 
 * [Trabajo Práctico 1, El modelo de **Hodgkin y Huxley** (fecha entrega 2024-10-21)](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp1-2024.pdf)
-* [Trabajo Práctico 2, Clasificando **Fashion-MNIST** con **PyTorch** (fecha entrega 2024-11-19 [Martes])](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp2-2024.pdf)
+* [Trabajo Práctico 2, Clasificando **Fashion-MNIST** con **PyTorch** (nueva fecha entrega 2024-11-25 [Lunes])](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tp2-2024.pdf)
 * [Plantilla LaTeX en overleaf](https://www.overleaf.com/read/qwctszcmgpkn#ed2041) [(o en el repo)](https://github.com/jipphysics/redes-neuronales-2024/tree/main/latex)
 
 ## Útiles
 
 * [920 open source projects in ML with Python](https://github.com/ml-tooling/best-of-ml-python)
-* [Fechas tenativas de exámenes finales de posgrado](https://www.famaf.unc.edu.ar/documents/5150/TENTATIVAS_POSGRADO_2024-2025.pdf)
