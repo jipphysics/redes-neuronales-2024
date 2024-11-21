@@ -32,8 +32,16 @@
 
 ## Fechas de exámenes
 
-* [Fechas examenes definitivas 2do cuatrimestre, grado](https://www.famaf.unc.edu.ar/documents/5148/ANEXO_Fechas_de_Ex%C3%A1menes_de_Asignaturas_de_Grado.pdf)
-* [Fechas examenes tenativas 2do cuatrimestre, posgrado](https://www.famaf.unc.edu.ar/documents/5150/TENTATIVAS_POSGRADO_2024-2025.pdf)
+* [Fechas examenes **definitivas** 2do cuatrimestre, grado](https://www.famaf.unc.edu.ar/documents/5148/ANEXO_Fechas_de_Ex%C3%A1menes_de_Asignaturas_de_Grado.pdf)
+  * 06-dic
+  * 20-dic 
+  * 14-feb 
+  * 28-feb
+* [Fechas examenes **tenativas** 2do cuatrimestre, posgrado](https://www.famaf.unc.edu.ar/documents/5150/TENTATIVAS_POSGRADO_2024-2025.pdf)
+  * 06-dic 
+  * 20-dic 
+  * 14-feb 
+  * 28-feb
 
 ## Guías de Prácticos
 
