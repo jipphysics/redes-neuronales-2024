@@ -103,7 +103,7 @@
 ## Trabajo final
 
 * [Autoencoder y clasificador convolucional profundo sobre FashionMNIST](https://github.com/jipphysics/redes-neuronales-2024/blob/main/tf-2024.pdf)
-  * Recuerde entregarlo 5 días hábiles antes del día del examen.
+  * Recuerde entregarlo 4 días hábiles antes del día del examen.
   * Luego, el día del examen, deberá defenderlo en una exposición oral de 10 min.
 
 ## Útiles
