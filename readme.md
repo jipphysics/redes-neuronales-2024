@@ -113,3 +113,7 @@
 ## Útiles
 
 * [920 open source projects in ML with Python](https://github.com/ml-tooling/best-of-ml-python)
+* Confusion matrix:
+  * [Confusion matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+  * [Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8)
+  * [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
