@@ -97,6 +97,7 @@
 * [Clase 29, 2024-11-21, Parte 2, Autoencoder convolucional con *Fashion-MNIST* y *PyTorch*, presentación del Trabajo Final](https://drive.google.com/file/d/11bXK_kEf74JT_v6FubdX8kJpV_yl13CC/view?usp=drive_link)
 * [Clase 30, 2024-11-25, Clase de consulta](https://drive.google.com/file/d/1iZibTUN_puUuFtBAze3jtYNLJlsKmbax/view?usp=drive_link)
 * [Clase 31, 2024-12-16, Clase de consulta](https://drive.google.com/file/d/1vT8KvkT3mzZbTp5yDzL8HC4kpRYfT00p/view?usp=drive_link)
+* [Clase 32, 2025-02-10, Clase de consulta](https://drive.google.com/file/d/1Q84h83lDt_b2PemV53n2Cy43qdFjwRqN/view?usp=drive_link)
 
 ## Trabajos Prácticos
 
