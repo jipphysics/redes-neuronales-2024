@@ -135,13 +135,24 @@ Las redes neuronales... bla bla bla~\cite{hertz1999introduction}.
 
 \section{Teoría}
 
-Bla bla...
+Los Autoencoders bla bla...
+ReLU...
+Dropout...
+Convolución...
+El Error Cuadrático Medio...
+Adam...
 
-\section{Resultados}
+\section{Datos}
 
-La siguiente es una lista de listas:
+FashionMNIST consiste en un conjunto de 70.000 imágenes de 28x28 píxeles en escalas de grises ... etiquetadas en 10 categorías ...
+Los experimentos involucran un conjunto de entrenamiento de 60.000 imágenes elegidas al azar y un conjunto de 10.000 imágenes de validación con las imágenes restantes.
+Las imágenes se normalizan...
+
+\section{Modelos}
+
+La arquitectura del modelo 1 es la siguiente:
 \begin{itemize}
-    \item
+    \item La capa 1...
     \begin{enumerate}
         \item Bla bla
         \item Blu blu
@@ -151,9 +162,51 @@ La siguiente es una lista de listas:
     \item Che che
 \end{itemize}
 
-Ver fig.~\ref{fig1}.
+\section{Resultados}
 
-Ver tabla~\ref{tab1}.
+La tabla~\ref{tab1} resume la lista de experimentos realizados con el fin de explorar sistemáticamente la variación de distintos hiperparámetros del modelo y del proceos de optimización.
+
+En la fig.~\ref{fig1}, vemos bla bla ...
+
+% tables should appear as floats within the text
+%
+% Here is an example of the general form of a table:
+% Fill in the caption in the braces of the \caption{} command. Put the label
+% that you will use with \ref{} command in the braces of the \label{} command.
+% Insert the column specifiers (l, r, c, d, etc.) in the empty braces of the
+% \begin{tabular}{} command.
+% The ruledtabular enviroment adds doubled rules to table and sets a
+% reasonable default table settings.
+% Use the table* environment to get a full-width table in two-column
+% Add \usepackage{longtable} and the longtable (or longtable*}
+% environment for nicely formatted long tables. Or use the the [H]
+% placement option to break a long table (with less control than 
+% in longtable).
+%\begin{widetext}
+%\begin{table}%[H] add [H] placement to break table across pages
+\begin{table*}%[H] USAMOS EL ASTERISCO PARA QUE OCUPE EL ANCHO DE LA PAGINA
+\begin{ruledtabular}
+\begin{tabular}{cccccccl} % usar lll si se quieren centrado a izquierda, o rrr si se quiere centrado a derecha. Se usa una letra por columna.
+Experimento nº & $n_1$ & $n_2$ & $p$ & Optimizador & Batch-size & learning-rate & Objetivo\\ % Agregar para seguir en la columna debajo. El & se usa para separar las entradas de las columnas.
+\hline
+1 & 128 & 64 & 0.2 & Adam & 256 & $10^{-3}$ & Experimento base. \\
+2 & 64,256 & 64 & 0.2 & Adam & 256 & $10^{-3}$ & Variar $n_1$. \\
+3 & 128 & 32,128 & 0.2 & Adam & 256 & $10^{-3}$ & Variar $n_2$. \\
+4 & 128 & 64 & 0.0,0.5 & Adam & 256 & $10^{-3}$ & Variar $p$. \\
+5 & 128 & 64 & 0.2 & SGD & 256 & $10^{-3}$ & Cambiar el optimizador. \\
+6 & 128 & 64 & 0.2 & Adam & 128,512 & $10^{-3}$ & Variar el batch-size. \\
+7 & 128 & 64 & 0.2 & Adam & 256 & $10^{-2},10^{-4}$ & Variar el learning-rate. \\
+% Lines of table here ending with \\
+\end{tabular}
+\end{ruledtabular}
+\caption{
+\label{tab1}
+Lista de experimentos en donde se varían distintos hiperparámetros de un experimento base.
+En todos los casos se entrenaron los modelos durante 30 épocas, partiendo de pesos sinápticos (o parámetros) inicialmente elegidos al azar.
+}
+%\end{table}
+\end{table*}
+%\end{widetext}
 
 \begin{figure*}%[!ht]
 \includegraphics*[scale=.4]{figs/fig1.png}
@@ -179,45 +232,6 @@ Otra distribución Gaussiana más.
 Una distribución Gaussiana extra.
 }
 \end{figure*}
-
-% tables should appear as floats within the text
-%
-% Here is an example of the general form of a table:
-% Fill in the caption in the braces of the \caption{} command. Put the label
-% that you will use with \ref{} command in the braces of the \label{} command.
-% Insert the column specifiers (l, r, c, d, etc.) in the empty braces of the
-% \begin{tabular}{} command.
-% The ruledtabular enviroment adds doubled rules to table and sets a
-% reasonable default table settings.
-% Use the table* environment to get a full-width table in two-column
-% Add \usepackage{longtable} and the longtable (or longtable*}
-% environment for nicely formatted long tables. Or use the the [H]
-% placement option to break a long table (with less control than 
-% in longtable).
-%\begin{widetext}
-%\begin{table}%[H] add [H] placement to break table across pages
-\begin{table*}%[H] USAMOS EL ASTERISCO PARA QUE OCUPE EL ANCHO DE LA PAGINA
-\begin{ruledtabular}
-\begin{tabular}{cccccccl} % usar lll si se quieren centrado a izquierda, o rrr si se quiere centrado a derecha. Se usa una letra por columna.
-Modelo & $n_1$ & $n_2$ & $p$ & Optimizador & Batch-size & learning-rate & Comentario\\ % Agregar para seguir en la columna debajo. El & se usa para separar las entradas de las columnas.
-\hline
-1 & 128 & 64 & 0.2 & SGD & 256 & $10^{-3}$ & Modelo base\\
-2 & 256 & 64 & 0.2 & SGD & 256 & $10^{-3}$ & Variamos $n_1$ \\
-3 & 128 & 128 & 0.2 & SGD & 256 & $10^{-3}$ & Variamos $n_2$ \\
-4 & 128 & 64 & 0.5 & SGD & 256 & $10^{-3}$ & Variamos $p$ \\
-5 & 128 & 64 & 0.2 & Adam & 256 & $10^{-3}$ & Variamos el optimizador \\
-6 & 128 & 64 & 0.2 & SGD & 512 & $10^{-3}$ & Variamos el batch size \\
-7 & 128 & 64 & 0.2 & SGD & 256 & $10^{-2}$ & Variamos el learning-rate \\
-% Lines of table here ending with \\
-\end{tabular}
-\end{ruledtabular}
-\caption{
-\label{tab1}
-Esta es una tabla de 3 columnas y 2 filas.
-}
-%\end{table}
-\end{table*}
-%\end{widetext}
 
 \section{Discusión}
 
@@ -276,7 +290,7 @@ Concluyendo ...
 \section{Agradecimientos}
 
 \begin{acknowledgments}
-JIP, BM y MA agradecen el finaciamiento y el apoyo de CONICET, SeCyT y la UNC.
+JIP, BM y MA agradecen el finaciamiento y el apoyo institucional de CONICET, SeCyT y la UNC.
 \end{acknowledgments}
 % Create the reference section using BibTeX:
 \bibliography{ref}
@@ -340,5 +354,3 @@ Bla bla bla...
 \end{document}
 %
 % ****** End of file apstemplate.tex ******
-
-
